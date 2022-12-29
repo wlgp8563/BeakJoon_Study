@@ -1,0 +1,6 @@
+﻿  1week-2.cpp
+  1week-3.cpp
+  1week.cpp
+  코드를 생성하고 있습니다...
+1week.obj : error LNK2005: _main이(가) 1week-2.obj에 이미 정의되어 있습니다.
+C:\BeakJoon_Study\BaekJoon_1week\Debug\BaekJoon_1week.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
